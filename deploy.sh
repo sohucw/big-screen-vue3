@@ -14,10 +14,10 @@ git add -A
 git commit -m 'deploy code'
 
 # 部署到github 此两行为注释
- git push -f git@github.com:Xin-hai/big-screen-vue3.git master:gh-pages
+ git push -f git@github.com:sohucw/big-screen-vue3.git master:gh-pages
 
 # 部署到gitee 下面这行正常运行
-#git push -f git@gitee.com:ZXInhai/big-screen-vue3.git master:gh-pages
+#git push -f git@gitee.com:sohucw/big-screen-vue3.git master:gh-pages
 
 # 回到之前的那一层目录
 cd -

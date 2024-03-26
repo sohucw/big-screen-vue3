@@ -17,7 +17,6 @@ Vue3过程中的一个大屏可视化项目，使用技术栈为Vite + Vue，主
 使用Tailwind CSS生成CSS样式，使用axios获取数据与数据拦截。
 主要图表有横向柱状图、纵向柱状图、环形图、雷达图、地图、关系图等，欢迎点点Star。
 ## 项目总结
-
 - 1.项目搭建
 - 2.数据获取与拦截
     - 2.1 axios
@@ -31,6 +30,9 @@ Vue3过程中的一个大屏可视化项目，使用技术栈为Vite + Vue，主
     - 2.9 axios响应拦截器
     - 2.10 axios请求与响应拦截器
 
+### 图表库
+isqqw.com
+https://echarts.apache.org/zh/index.html
 
 
 

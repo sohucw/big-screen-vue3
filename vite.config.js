@@ -10,6 +10,7 @@ export default defineConfig(({ mode }) => {
     // 获取环境变量
     const env = loadEnv(mode, root);
     return {
+        base: '/big-screen-vue3',
         plugins: [vue()],
         resolve: {
             alias: [
