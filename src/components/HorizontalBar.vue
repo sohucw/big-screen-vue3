@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="flex justify-between items-center">【各个地区数据】 <slot></slot></div>
+    <div class="flex justify-between items-center">【各个地区数据前端技术】 <slot></slot></div>
     <div ref="target" class="w-full h-full"></div>
   </div>
 </template>
