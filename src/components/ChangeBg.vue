@@ -1,5 +1,5 @@
 <template>
-  <button @click="change" class="text-green-500">背景切换</button>
+  <button @click="change" class="text-green-500">大屏背景</button>
 </template>
 <script setup>
 import {inject} from "vue";
