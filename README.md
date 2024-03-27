@@ -36,3 +36,7 @@ https://echarts.apache.org/zh/index.html
 
 
 
+
+### gitaction
+GitHub Actions给我们提提供的运行环境主要有以下几种： 
+ubuntu-latest，ubuntu-18.04或ubuntu-16.04 windows-latest，windows-2019或windows-2016 macOS-latest或macOS-10.14
